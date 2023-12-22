@@ -7,5 +7,7 @@
 #include <sys/wait.h>
 #include <sys/types.h>
 #include <string.h>
+#include <fcntl.h>
+#include <sys/stat.h>
 
 #endif
