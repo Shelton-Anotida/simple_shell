@@ -1,8 +1,6 @@
-#This is the Simple Shell Project#
-
-Done by
-*Shelton Anotida Chawira &
-*Pamela Chawira
+#Simple Shell Project#
 
 * Shell is like a bridge between user & opearting system
-
+* It prompts the user
+* Interface that takes in commands
+* Reads input and executes
