@@ -29,7 +29,5 @@ void prompt_printer(struct Shell *myShell)
 
 	tokenize(buf_store);
 
-	printf("%s", buf_store);
-
 	free(buf_store);
 }

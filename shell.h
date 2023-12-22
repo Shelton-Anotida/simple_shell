@@ -24,5 +24,6 @@ struct Shell
 void prompt_printer(struct Shell *myShell);
 void tokenize(char *input);
 char *copy_string(const char *source);
+void execute_command(const char *command, char *const arguments[]);
 
 #endif

@@ -11,8 +11,6 @@ void tokenize(char *input)
 
 	while (toks != NULL)
 	{
-		printf("%s\n", toks);
-
 		toks = strtok(NULL, " \t\n");
 	}
 }
